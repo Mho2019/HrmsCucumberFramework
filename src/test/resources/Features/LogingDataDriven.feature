@@ -1,7 +1,6 @@
 Feature: Login Functionality
 
-@AddNewUsers
-
+@RegressionTest
 Scenario Outline: InValid Login with Multiple set of data
 
 Given User navigates to the login page and Enters the userID "<Username>" and password "<Password>"

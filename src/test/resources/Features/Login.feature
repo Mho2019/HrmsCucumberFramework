@@ -1,4 +1,6 @@
+@Login
 Feature: Login Functionality
+
 
 Scenario: Valid Login
 

@@ -1,6 +1,6 @@
 Feature: Add new User Functionality
 
-@AddNewUser
+@Smoke
 Scenario: Add new User with valid Details
 
 
